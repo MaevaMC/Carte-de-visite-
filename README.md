@@ -1,4 +1,4 @@
-# Carte-de-visite-
+# Carte-de-visite
 # Entre les lignes ☕📚
 
 **Projet fictif — Identité visuelle pour un café-librairie**
